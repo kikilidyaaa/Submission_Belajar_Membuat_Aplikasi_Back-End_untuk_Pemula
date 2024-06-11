@@ -6,7 +6,6 @@ Deskripsi Proyek
 Dalam project ini, saya mengimplementasikan:
 
 - Pengaturan Proyek Node.js: Konfigurasi awal proyek menggunakan Node.js.
-- Routing: Penanganan permintaan HTTP dengan routing menggunakan Express.js.
 - Penyimpanan Data: Penggunaan struktur data sederhana untuk menyimpan data aplikasi.
 - Operasi CRUD: Membuat operasi Create, Read, Update, dan Delete untuk sumber daya aplikasi.
 - Validasi Input: Memvalidasi input dari pengguna untuk mencegah masukan yang tidak valid atau berbahaya.
